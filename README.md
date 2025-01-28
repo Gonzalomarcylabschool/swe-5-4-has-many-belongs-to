@@ -1,5 +1,7 @@
 # Has Many / Belongs To
 
+[lecture notes](https://marcylabschool.gitbook.io/marcy-lab-school-docs/mod-5-oop/5-has-many-belongs-to)
+
 ## Class Diagrams
 
 When building an application, the first step is always to make a plan. 
